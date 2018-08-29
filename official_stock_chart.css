@@ -1,0 +1,48 @@
+html,
+body {
+    height: 100%;
+}
+#chart1 {
+    height: -webkit-calc(100% - 40px);
+    height: -moz-calc(100% - 40px);
+    height: calc(100% - 40px);
+    width: 100%;
+    /* Remove any browser-default margins. */
+    margin: 0;
+}
+@media (min-width: 992px) {
+    .navbar li {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+}
+.small-textbox {
+    width: 20% !important;
+}
+.compressed {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+ul {
+    height: 100% !important;
+    display: flex !important;
+    flex-direction: row !important;
+}
+#center_submit {
+    position: relative;
+    top: 42%;
+}
+
+#center_predictor-toggle {
+    position: relative !important;
+    top: 30% !important;
+}
+#predictor-margin {
+    margin-right: 2%;
+    margin-left: 1%;
+}
+.popover-body {
+    height: 100px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+}

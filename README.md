@@ -15,26 +15,26 @@ NOTE: Some functionality (such as moving average and standard deviation calculat
 * Y: Four digit year, m: Two digit month number, d: two digit day of the month, H: hours in 24h format (0-23), M: two digit minute
 
 ## Features
-### File Locator
+##### File Locator
 This is used to select the data file stored on the user's local computer. Once a valid file is selected, the chart will appear.
 
-### Log Toggle
+##### Log Toggle
 The algorithm data can be toggled to display the log (base 10) of the data to help fit it to the price series better.
 
-### Moving Average Calculators
+##### Moving Average Calculators
 Two moving averages can be displayed. These are linked to the algorithm data, not the price.
 
-### Standard Deviation Calculators
+##### Standard Deviation Calculators
 Two standard deviation calculators display the upper and lower bounds of the moving average. These calculatations are intensive, so it may take a few seconds to display the results.
 
-### Buy/Sell Flags
+##### Buy/Sell Flags
 Flags are placed where the algorithm crosses either standard deviation bound to indicate a buy or sell location. The points are also listed when the buy or sell buttons are clicked. These buttons are located at the top of the control panel.
 
-### Hide Labels Toggle
+##### Hide Labels Toggle
 Data point labels can be hidden by clicking the textbox icon at the top of the control panel.
 
-### Calendar Functionality
+##### Calendar Functionality
 The start and end times of the chart can be adjusted using the calendars on the right side of the control panel.
 
-### Zoom Functionality
+##### Zoom Functionality
 Draw a box on the graph with the cursor to make the selected box fill the screen.

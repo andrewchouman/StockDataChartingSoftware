@@ -1,6 +1,6 @@
 # Data Visualization Tool for Stock Market Algorithms
-### Developed by: Andrew Chouman
-### Last modified: August 28, 2018
+###### Developed by: Andrew Chouman
+###### Last modified: August 29, 2018
 
 This tool allows users to visualize the effectiveness of a stock market algorithm. The user can compare the time series of a stock's price to a time series of an algorithm they designed to predict its movements. **It's designed handle hundreds of thousands of data points without losing its responsiveness.** A description of all the tools included in the software are provided below.
 

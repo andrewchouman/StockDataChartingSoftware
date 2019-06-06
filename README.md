@@ -2,7 +2,7 @@
 ###### Developed by: Andrew Chouman
 ###### Last modified: August 29, 2018
 
-This tool allows users to visualize the effectiveness of a stock market algorithm. The user can compare the time series of a stock's price to a time series of an algorithm they designed to predict its movements. **It's designed handle hundreds of thousands of data points without losing its responsiveness.** A description of all the tools included in the software are provided below.
+This tool allows users to visualize the effectiveness of a stock market algorithm. The user can compare the time series of a stock's price to a time series of an algorithm they designed to predict its movements. **It's designed to handle hundreds of thousands of data points without losing its responsiveness.** A description of all the tools included in the software are provided below.
 
 ## Quick Start
 Download the folder and open of the HTML document in your preferred browser (Google Chrome or Safari are recommended). Click on the `Choose File` button and select a correctly formatted data file (`sample_data.csv` is included). Use the control panel at the bottom of the screen to use the tools. For the sample data, I would recommend toggling to the log Predictor to see it better.
